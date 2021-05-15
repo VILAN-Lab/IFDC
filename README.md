@@ -83,4 +83,4 @@ python eval.py
 
 ### Evaluation
 
-Evaluate generated sentences using project [nlg-eval](https://github.com/Maluuba/nlg-eval). 7
+Evaluate generated sentences using project [nlg-eval](https://github.com/Maluuba/nlg-eval).
