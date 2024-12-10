@@ -1,6 +1,6 @@
 ## IFDC for Image Difference Captioning
 
-<!--Code for paper "Image Difference Captioning with Instance-Level Fine-Grained Feature Representation", TMM. -->
+Code for paper "Image Difference Captioning with Instance-Level Fine-Grained Feature Representation", TMM. 
 
 ### Prerequisites
 
